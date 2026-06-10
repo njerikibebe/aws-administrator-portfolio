@@ -55,13 +55,13 @@ the root document
 ## Screenshots
 
 ### Live Website via CloudFront
-![Website Screenshot](screenshots/website.png)
+![Website Screenshot](project-1-s3-cloudfront/website.png)
 
 ### CloudFront Distribution Settings
-![CloudFront Screenshot](screenshots/cloudfront.png)
+![CloudFront Screenshot](project-1-s3-cloudfront/CloudFront1.PNG)
 
 ### S3 Bucket Configuration
-![S3 Screenshot](screenshots/s3-bucket.png)
+![S3 Screenshot](project-1-s3-cloudfront/s3-bucket.png)
 
 ---
 
