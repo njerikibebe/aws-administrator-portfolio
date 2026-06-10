@@ -52,19 +52,6 @@ the root document
 
 ---
 
-## Screenshots
-
-### Live Website via CloudFront
-![Website Screenshot](project-1-s3-cloudfront/website.png)
-
-### CloudFront Distribution Settings
-![CloudFront Screenshot](project-1-s3-cloudfront/CloudFront1.PNG)
-
-### S3 Bucket Configuration
-![S3 Screenshot](project-1-s3-cloudfront/s3-bucket.png)
-
----
-
 ## Security Practices Applied
 
 - Root account not used — dedicated IAM user created for CLI access
